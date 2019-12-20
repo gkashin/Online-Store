@@ -54,7 +54,6 @@
 		5B2FD44C23ACAF4A0069192A /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2FD41923ACAF470069192A /* CategoryTableViewController.swift */; };
 		5B2FD44D23ACAF4A0069192A /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2FD41A23ACAF470069192A /* TabBarController.swift */; };
 		5B2FD44E23ACAF4A0069192A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B2FD41C23ACAF4A0069192A /* Assets.xcassets */; };
-		5B2FD44F23ACB0F10069192A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5B2FD3F823ACAF460069192A /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -313,7 +312,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5B2FD44F23ACB0F10069192A /* Info.plist in Resources */,
 				5B2FD43423ACAF4A0069192A /* SizeSelectionAlert.xib in Resources */,
 				5B2FD43323ACAF4A0069192A /* Main.storyboard in Resources */,
 				5B2FD43223ACAF4A0069192A /* LaunchScreen.storyboard in Resources */,
