@@ -11,7 +11,7 @@ Cart           |  Office
 ![](https://d.radikal.ru/d39/1912/d6/2dfb6dd8da83.png) | ![](https://a.radikal.ru/a00/1912/f7/0e8235627970.png)
 
 ## Navigation
-Information          |  Man Categories
+Information          |  Categories
 :-------------------------:|:-------------------------:
 ![](https://d.radikal.ru/d04/1912/a4/97c1347438ff.png) | ![](https://b.radikal.ru/b41/1912/d2/9cbd01d696a8.png)
 
